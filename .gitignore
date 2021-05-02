@@ -1,0 +1,11 @@
+_deps/
+.vscode/
+bin/
+CMakeFiles
+lib/
+cmake_install.cmake
+CMakeCache.txt
+linked_list_tests
+linked_list_tests\[1\]*
+Makefile
+
